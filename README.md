@@ -1,2 +1,6 @@
 # GIT
-sample github
+
+sample GitHub
+
+modification in local system
+
